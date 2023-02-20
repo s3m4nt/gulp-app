@@ -1,0 +1,1 @@
+console.log("this is file one: ");const arr=[12,45,3,77,974,1,7];console.log(arr),console.log("this is file 2: ");const copy=document.querySelector(".copy");copy.innerHTML="-*- &copy; Copyright 2023 -*-",console.log("end of page"),console.log("This is file 2 js");

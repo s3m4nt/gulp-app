@@ -1,0 +1,19 @@
+{
+  "name": "gulp-app",
+  "version": "1.0.0",
+  "description": "Brian's 1.0 Gulp app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BY",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^2.1.2",
+    "sass": "^1.58.1"
+  }
+}
